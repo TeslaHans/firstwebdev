@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Papyrus,fantasy;
+}
+
+.top-container {
+    background-color: azure;
+    position: relative;
+    padding-top: 50px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 5.625rem;
+    color: #008000;
+}
+
+p {
+    font-family: Copperplate,Copperplate Gothic Light,fantasy; 
+    margin-left: 30px;
+
+}
+
+.hellotext {
+    margin: 0 0 0 0;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #3D7EA6;
+    margin: 90px auto 0px auto;
+}
+
+.webdeveloper-text {    
+    font-size: 2.5rem;
+    color: #008000;
+}
+
+.top-cloud {
+    height: 130px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottom-cloud {
+    position: absolute;
+    height: 130px;
+    top: 180px;
+}
+
+.mountain {
+    height: 669px;
+    width: 700px;
+}
+
+.hans-profile {
+    height: 150px;
+    width: 150px;
+    margin: 10px 0 0 0;
+}
+
+.profile-image1 {
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 100px;
+    border-radius: 150px;
+    background-color: whitesmoke;
+}
+
+.webtext {
+    margin: 0 0 0 0;
+}
+
+.skill-row {
+    width: 50%;
+    height: 550px;
+    margin: 0 0 0 150px;
+    text-align: left;
+    line-height: 2;
+    padding: 0 0 0 0;
+}
+
+.skill-row1 {
+    width: 50%;
+    margin: 0 0 0 900px;
+    text-align: right;
+    line-height: 2;
+    padding: 0 0 0 0;
+}
+
+.webimg {
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+    border: none;
+    border-radius: 50px;  
+}
+
+.skills{
+    background-color: white;
+}
+
+
+.webdes {
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50px; 
+}
+
+.webdesign-text {
+    margin-left: 30px;
+}
+
+.middle-container {
+    background-color: white;
+    margin: 0 0 50px 0;
+
+}
+
+.btn{
+    background-color: #074173;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+.bottom-container {
+    margin: 0 0 0 0;
+    background-color: #E3FEF7;
+    padding: 20px 0 5px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px ;
+    
+}
+
+.linkiedIn-link {
+    margin: 10px 25px 0 0;
+    text-decoration: none;
+}
+
+.facebook-link {
+    margin: 10px  25px 0 25px;
+    text-decoration: none;
+}
+.instagram-link {
+    margin: 10px  25px 0 0;
+    text-decoration: none;
+}
+
+.hans-copyright {
+    margin-top: 40px;
+    margin-bottom: 0;
+    color: #074173;
+}
